@@ -7,7 +7,7 @@ Material:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: HelloMaterial
-  m_Shader: {fileID: 4800000, guid: 58bda3a7f495d4a4bbe75a9ec3f29e1b, type: 3}
+  m_Shader: {fileID: 4800000, guid: f2c316006c609fe4c99932de95c5eafd, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -60,6 +60,10 @@ Material:
         m_Offset: {x: 0, y: 0}
     - _MyTextureEmissive:
         m_Texture: {fileID: 2800000, guid: d7b3f26bd35cfe84da762ac9bdc2a5ba, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MyTextureNormal:
+        m_Texture: {fileID: 2800000, guid: a57f05dbdb5ba334da2d35b6020fea13, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _OcclusionMap:
