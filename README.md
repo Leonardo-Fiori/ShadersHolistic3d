@@ -1,3 +1,3 @@
-# ShadersHolistic3d
+# Unity Shaders Tests
 
-Shaders tutorial by Holistic3d, as seen on Udemy.
+Some Unity Shaders made by me on my own or following some tutorials i found in the web!
